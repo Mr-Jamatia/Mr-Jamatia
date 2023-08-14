@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋🏻, This is Raja Babu Jamatia</h1>
 <h3 align="center">A passionate Quantum Developer from India</h3>
 
-- 🔭 I’m currently working on Research Paper **Investigating The Impact Of Quantum Computing On Cryptography: Threats and Countermeasures**
+- 🔭 I’m currently working on a Research Paper **Investigating The Impact Of Quantum Computing On Cryptography: Threats and Countermeasures**
 
-- 🌱 I’m currently learning **Q#**
+- 🌱 I’m currently learning a **Q#**
 
 <h3 align="left"></h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning a **Q#**
 
-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="924a6da9-4aa4-4acf-bcf6-dc716c986eb4" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <h3 align="left"></h3>
 <p align="left">

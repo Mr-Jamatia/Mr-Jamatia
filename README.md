@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
 </p>
 
-<h2 align="center">🧠 Raja Babu Jamatia | QuantumJARVIS-X</h2>
+<h2 align="center"> ❄︎ Raja Babu Jamatia </h2>
 <p align="center">Welcome, Commander. Quantum Systems Online. Awaiting Mission Directives...</p>
 
 ---

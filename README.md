@@ -25,9 +25,8 @@ specialities:
 currently:
   - Founder @ Quantum Elite Scholar's Society
   - Qiskit Fall Fest 2024 Rep @ Shoolini University
-  - Director @ VProtech Digital Ltd
-  - Contributor @ QWorld (QNepal, WAfrica)
-  - QuantumML Researcher (Cancer + Cardiac Models)
+  - Mentor @ QWorld (QNepal, WAfrica)
+  - QuantumML Researcher
 
 
 ```

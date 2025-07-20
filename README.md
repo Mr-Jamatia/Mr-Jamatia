@@ -31,6 +31,8 @@ currently:
 
 ```
 
+#🛰️ Network Access
+<p align="center"> <a href="https://linkedin.com/in/raja-babu-jamatia-521609288"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:rajababu.quantum@gmail.com"> <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/RajaBabuJamatia"> <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>

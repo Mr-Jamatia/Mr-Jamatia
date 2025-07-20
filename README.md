@@ -1,15 +1,34 @@
-<h1 align="center">Hey 👋🏻, This is Raja Babu Jamatia</h1>
-<h3 align="center">A passionate Quantum Developer from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🔋+Powering+Up...;🧠+Booting+QuantumJARVIS+vX...;🛰️+Link+Established+%F0%9F%94%8C;💬+Ready+to+Assist+You..." alt="Typing SVG" />
+</h1>
 
-- 🔭 I’m currently working on a Research Paper **Investigating The Impact Of Quantum Computing On Cryptography: Threats and Countermeasures**
-
-- 🌱 I’m currently learning a **Q#**
-
-
-
-<h3 align="left"></h3>
-<p align="left">
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
 </p>
+
+<h2 align="center">🧠 Raja Babu Jamatia | QuantumJARVIS-X</h2>
+<p align="center">Welcome, Commander. Quantum Systems Online. Awaiting Mission Directives...</p>
+
+---
+
+### 🧬 Bio-Metric ID
+
+```yaml
+alias: "QuantumJARVIS"
+function: "AI-powered Researcher, Developer & Quantum Thinker"
+specialities:
+  - Quantum Machine Learning ⚛️
+  - Constraint Solvers & Logic Systems 🧩
+  - Real-Time Diagnostic AI 💉
+  - GUI Engineering with Tkinter & DBMS 💻
+  - Quantum Education Gaming 🎮
+currently:
+  - Founder @ Quantum Elite Scholar's Society
+  - Qiskit Fall Fest 2024 Rep @ Shoolini University
+  - Director @ VProtech Digital Ltd
+  - Contributor @ QWorld (QNepal, WAfrica)
+  - QuantumML Researcher (Cancer + Cardiac Models)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>

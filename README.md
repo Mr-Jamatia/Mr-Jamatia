@@ -38,7 +38,11 @@ currently:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RajaBabuJamatia&show_icons=true&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaBabuJamatia&layout=compact&theme=tokyonight&hide_border=true" /> </p>
 
 ### 🧩 System Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RajaBabuJamatia&theme=matrix&no-frame=true&no-bg=true" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RajaBabuJamatia&theme=matrix&no-frame=true&no-bg=true" />
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="c7b17021-25eb-4ff7-b1e6-b8d49908a2c3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>

@@ -25,7 +25,7 @@ specialities:
 currently:
   - Founder @ Quantum Elite Scholar's Society
   - Qiskit Fall Fest 2024 Rep @ Shoolini University
-  - Mentor @ QWorld (QNepal, WAfrica)
+  - Mentor @ QWorld (QNepal, QAfrica)
   - QuantumML Researcher
 
 

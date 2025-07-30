@@ -14,7 +14,7 @@
 ### 🧬 Bio-Metric ID
 
 ```yaml
-alias: "QuantumxJamatia"
+alias: "Quantum x Jamatia"
 function: "AI-powered Researcher, Developer & Quantum Thinker"
 specialities:
   - Quantum Machine Learning ⚛️

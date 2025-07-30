@@ -24,7 +24,7 @@ specialities:
   - Quantum Education Gaming 🎮
 currently:
   - Founder @ Quantum Elite Scholar's Society
-  - Qiskit Fall Fest 2024 Rep @ Shoolini University
+  - Qiskit Fall Fest 2024 Representative @ Shoolini University
   - Mentor @ QWorld (QNepal, QAfrica)
   - QuantumML Researcher
 

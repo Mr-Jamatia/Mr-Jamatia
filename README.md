@@ -1,8 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🔋+Powering+Up...;🧠+Booting+QuantumJARVIS+vX...;🛰️+Link+Established+%F0%9F%94%8C;💬+Ready+to+Assist+You..." alt="Typing SVG" />
 </h1>
-----------------
-👨🏻‍💻 **Adv No. 114122 **<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+---
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
 </p>
@@ -12,6 +11,7 @@
 
 ---
 
+👨🏻‍💻 **Adv No. 114122 **<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 ### 🧬 Bio-Metric ID
 
 ```yaml

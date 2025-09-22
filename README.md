@@ -1,7 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🔋+Powering+Up...;🧠+Booting+QuantumJARVIS+vX...;🛰️+Link+Established+%F0%9F%94%8C;💬+Ready+to+Assist+You..." alt="Typing SVG" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Quantum.png/1600px-Quantum.png?20250922103639" alt="Typing SVG" />
 </h1>
 ---
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
 </p>
@@ -9,7 +11,7 @@
 <h2 align="center"> ❄︎ Raja Babu Jamatia </h2>
 <p align="center">Welcome, Commander. Quantum Systems Online. Awaiting Mission Directives...</p>
 
----
+
 
 ### 👨🏻‍💻 Adv No. 114122 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mr-Jamatia.png/1006px-Mr-Jamatia.png?20250922102128" min-width="300px" max-width="300px" width="350px" align="right">
 ### 🧬 Bio-Metric ID

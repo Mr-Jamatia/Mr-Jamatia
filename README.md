@@ -4,9 +4,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" />
-</p>
-
+  <img src="https://giffiles.alphacoders.com/211/211099.gif" width="300"/>
 <h2 align="center"> ❄︎ Raja Babu Jamatia </h2>
 <p align="center">Welcome, Commander. Quantum Systems Online. Awaiting Mission Directives...</p>
 

@@ -21,7 +21,7 @@ specialities:
   - Quantum Machine Learning ⚛️
   - Constraint Solvers & Logic Systems 🧩
   - Real-Time Diagnostic AI 💉
-  - GUI Engineering with Tkinter & DBMS 💻
+  - Prompt Engineering 💻
   - Quantum Education Gaming 🎮
 currently:
   - Qiskit Advocate @ IBM

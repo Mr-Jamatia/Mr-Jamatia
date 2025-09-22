@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Quantum.png/1600px-Quantum.png?20250922103639" alt="Typing SVG" />
 </h1>
----
 
 
 <p align="center">
